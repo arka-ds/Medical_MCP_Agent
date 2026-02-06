@@ -1,0 +1,16 @@
+# ---- secrets ----
+.env
+token.json
+credentials.json
+
+# ---- node ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---- python ----
+.venv/
+__pycache__/
+
+# ---- misc ----
+.DS_Store

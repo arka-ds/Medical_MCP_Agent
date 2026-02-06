@@ -1,0 +1,15 @@
+# Secrets
+.env
+credentials.json
+token.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+.venv/
+__pycache__/
+
+# OS
+.DS_Store
